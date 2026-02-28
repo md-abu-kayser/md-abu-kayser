@@ -108,13 +108,13 @@ Below are the pinned repositories. Each project includes: short summary, technol
 
 ---
 
-#### LICENSE
+### LICENSE
 
 **All repositories in this account use the MIT License unless otherwise noted. See each repo’s LICENSE file for the exact text.**
 
 **Contact line**
 Email: abu.kayser.official@gmail.com | Portfolio: kawser.dev
 
-#### Fun Fact
+### Fun Fact
 
 **I enjoy solving complex coding challenges in my spare time!** -->
