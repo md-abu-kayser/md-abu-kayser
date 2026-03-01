@@ -1,4 +1,4 @@
-# I have temporary hide my github README.md profile.
+# I have temporary hide my github README documentation profile.
 <!-- MIT License -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
