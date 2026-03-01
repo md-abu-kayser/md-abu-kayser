@@ -1,4 +1,7 @@
 # I have temporary hide my github README.md profile.
+<!-- MIT License -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
 <!--
 # Md Abu Kayser - Full-Stack Engineer
