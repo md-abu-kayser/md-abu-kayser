@@ -18,9 +18,10 @@ I build clean, type-safe, production-ready applications — and I'm currently op
 I'm rebuilding my engineering path through focused, production-minded work: open-source contributions, real deployed projects, and clean documented code — the kind of evidence that speaks louder than a resume.
 
 - 🔭 Currently building full-stack apps with **type safety, reliability, and clear architecture** in mind
+- 💬 Ask me about: TypeScript, React, Next.js, Node.js, Go, PostgreSQL, Docker, or API design
 - 💼 Focused on **testable code** (unit + integration), **Dockerized deployments**, and **CI/CD**
 - 🎯 Long-term goal: **Dev** Community Monikers: **Unicorn Developer** | **10x Engineer**
-- 💬 Ask me about: TypeScript, React, Next.js, Node.js, Go, PostgreSQL, Docker, or API design
+
 
 ---
 
@@ -47,8 +48,8 @@ I'm rebuilding my engineering path through focused, production-minded work: open
 **Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Docker
 A production-style store with authentication, sandbox payments, product admin, and full CI/CD.
 ```bash
-git clone https://github.com/md-abu-kayser/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/md-abu-kayser/<coming-soon>.git
+cd <coming-soon>
 cp .env.example .env
 docker-compose up --build
 ```
