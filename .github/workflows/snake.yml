@@ -1,42 +1,39 @@
-name: Generate Contribution Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:          # allows manual trigger from the Actions tab
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
-permissions:
-  contents: write
-
-concurrency:
-  group: snake-animation
-  cancel-in-progress: true
-
 jobs:
   generate:
-    name: Build snake SVG/GIF
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake animation (multiple themes)
-        uses: Platane/snk/svg-only@v3
+      # Generate both SVG (dark/light) and an animated GIF
+      - name: Generate snake animation assets
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Customize the snake's colour and the contribution grid colours
+          # The 5 colours correspond to: empty, level1, level2, level3, level4
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a0f0,#3f7fd9,#1c5cc2
-            dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#c9e8ff,#89c6ff,#4aa4ff,#1c7cff,#0058e6
+            dist/github-contribution-grid-snake.gif?color_snake=#9B59B6&color_dots=#1A1B27,#4B2C5E,#7D3C98,#A569BD,#D2B4DE&snake_speed=2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Deploy to the output branch
       - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
