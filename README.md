@@ -2,7 +2,7 @@
 
 # Hi, I'm Md Abu Kayser 👋
 
-### Full-Stack Web Developer | React · Next.js · Node.js · Go · TypeScript
+### Full-Stack Engineer | React · Next.js · Node.js · Go · TypeScript
 
 I build clean, type-safe, production-ready applications - and I'm currently open to **remote roles across the US, Canada, and the EU**.
 
