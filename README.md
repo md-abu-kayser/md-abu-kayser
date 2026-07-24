@@ -1,15 +1,15 @@
+### 📈 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/md-abu-kayser/md-abu-kayser/actions/workflows/snake.yml">
+    <img src="https://github.com/md-abu-kayser/md-abu-kayser/actions/workflows/snake.yml/badge.svg" alt="Snake animation workflow status" />
+  </a>
+</p>
+
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg">
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg">
-  <img 
-    alt="GitHub contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.gif"
-    width="100%"
-    style="max-width: 800px; display: block; margin: 0 auto;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating its way through my GitHub contribution graph" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 <!-- MIT License -->
