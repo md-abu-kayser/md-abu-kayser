@@ -4,7 +4,7 @@
 
 ### Full-Stack Web Developer | React · Next.js · Node.js · Go · TypeScript
 
-I build clean, type-safe, production-ready applications — and I'm currently open to **remote roles across the US, Canada, and the EU**.
+I build clean, type-safe, production-ready applications - and I'm currently open to **remote roles across the US, Canada, and the EU**.
 
 <img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 <img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
@@ -67,12 +67,12 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=tokyonight&hide_border=true" width="49%" alt="" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -95,7 +95,7 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 </div>
 
-Want to collaborate? Open an issue on any repo or reach out directly — I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
+Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
 
 ---
 
