@@ -18,10 +18,9 @@ I build clean, type-safe, production-ready applications — and I'm currently op
 I'm rebuilding my engineering path through focused, production-minded work: open-source contributions, real deployed projects, and clean documented code — the kind of evidence that speaks louder than a resume.
 
 - 🔭 Currently building full-stack apps with **type safety, reliability, and clear architecture** in mind
-- 🌱 Deepening my knowledge of **Cryptography, Blockchain, and Web3** primitives
 - 💼 Focused on **testable code** (unit + integration), **Dockerized deployments**, and **CI/CD**
-- 🎯 Long-term goal: a Bachelor's in Computer Science (Cryptography / Blockchain / Web3 track)
-- 💬 Ask me about: React, Next.js, Node.js, Go, or API design
+- 🎯 Long-term goal: **Dev** Community Monikers: **Unicorn Developer** | **10x Engineer**
+- 💬 Ask me about: TypeScript, React, Next.js, Node.js, Go, PostgreSQL, Docker, or API design
 
 ---
 
