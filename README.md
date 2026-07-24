@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 
 # Hi, I'm Md Abu Kayser 👋
@@ -64,6 +65,8 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ---
 
+-->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,6 +87,8 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 </picture>
 
 ---
+
+<!-- 
 
 ## 🤝 Let's Connect
 
@@ -106,3 +111,5 @@ Want to collaborate? Open an issue on any repo or reach out directly - I review 
 *Fun fact: I enjoy untangling gnarly coding challenges in my spare time.*
 
 </div>
+
+-->
