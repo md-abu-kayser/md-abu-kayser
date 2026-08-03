@@ -88,25 +88,14 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=md-abu-kayser&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=58A6FF&amp;icon_color=00CFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=My%20GitHub%20Statistics"
-    alt="Md Abu Kayser's GitHub Statistics"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=md-abu-kayser&amp;theme=dark&amp;hide_border=false&amp;border=8B949E&amp;background=161B22&amp;ring=00CFFF&amp;fire=00CFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CFFF&amp;sideLabels=C9D1D9&amp;dates=8B949E"
+    src="https://streak-stats.demolab.com/?user=md-abu-kayser&amp;theme=dark&amp;hide_border=false&amp;border=8B949E&amp;background=161B22&amp;ring=00CFFF&amp;fire=00CFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CFFF&amp;sideLabels=C9D1D9&amp;dates=8B949E"
     alt="GitHub Streak"
-    width="100%"
+    width="49%"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&amp;layout=compact&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=My%20Programming%20Languages"
-    alt="Most used programming languages"
-    width="100%"
+    alt="My Programming Languages"
+    width="49%"
   />
 </p>
 
