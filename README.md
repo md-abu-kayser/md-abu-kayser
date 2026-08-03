@@ -63,10 +63,6 @@ A component-driven UI with documented components, accessibility support, and uni
 A performant REST API featuring JWT auth, role-based access control, and automated tests.
 
 ---
-
-### "I have temporary hide my github README documentation profile"
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
