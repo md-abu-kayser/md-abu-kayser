@@ -73,15 +73,43 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 -->
 
+### "I have temporary hide my github README documentation profile"
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=tokyonight&hide_border=true" width="49%" alt="" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=dark&hide_border=false&border_color=8B949E&title_color=58A6FF&icon_color=00CFFF&text_color=C9D1D9&bg_color=161B22&rank_icon=github"
+  alt="Md Abu Kayser's GitHub statistics"
+  width="100%"
+/>
+
+<br /><br />
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
+  alt="GitHub contribution streak"
+  width="100%"
+/>
+
+<br /><br />
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22"
+  alt="Most used programming languages"
+  width="100%"
+/>
+
 </div>
 
 ### 🐍 Contribution Snake
