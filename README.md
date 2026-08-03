@@ -1,4 +1,3 @@
-<!--
 <div align="center">
 
 # Hi, I'm Md Abu Kayser 👋
@@ -65,7 +64,6 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ---
 
--->
 ### "I have temporary hide my github README documentation profile"
 
 ---
@@ -90,8 +88,6 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ---
 
-<!-- 
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -113,5 +109,3 @@ Want to collaborate? Open an issue on any repo or reach out directly - I review 
 *Fun fact: I enjoy untangling gnarly coding challenges in my spare time.*
 
 </div>
-
--->
