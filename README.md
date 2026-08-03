@@ -1,84 +1,55 @@
-<!--
-  Profile README for github.com/md-abu-kayser
-  Before publishing, replace the two TODO links in "Contact" and turn the
-  project links below into the real repository / live-demo URLs.
--->
-
 <div align="center">
 
 # Md Abu Kayser
 
-### Full-Stack Engineer · TypeScript, React, Next.js, Node.js & Go
+**Full-Stack Engineer — React · Next.js · Node.js · Go · TypeScript**
 
-I build fast, reliable web products—from thoughtful interfaces to well-tested APIs and dependable deployments.
+I build type-safe, production-ready web applications end to end — from API design to deployment.
+Currently open to **remote roles in the US, Canada, and the EU**.
 
-[![Open to work](https://img.shields.io/badge/Open%20to-remote%20opportunities-2ea44f?style=flat-square&logo=handshake&logoColor=white)](mailto:abu.kayser.official@gmail.com)
-[![Location](https://img.shields.io/badge/Based%20in-Bangladesh%20(UTC%2B6)-0969da?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/md-abu-kayser)
-[![Profile views](https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20views&color=0969da&style=flat-square)](https://github.com/md-abu-kayser)
-
-[Email me](mailto:abu.kayser.official@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Portfolio](https://YOUR-PORTFOLIO.com)
+<!-- TODO: replace YOUR-LINKEDIN and YOUR-PORTFOLIO below with your real links before publishing -->
+[![Email](https://img.shields.io/badge/Email-abu.kayser.official%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abu.kayser.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
 
 </div>
 
 ---
 
-## Building software people can rely on
-
-I enjoy turning product ideas into maintainable, production-ready applications. My approach combines a polished user experience with type-safe code, clear architecture, and practical delivery practices.
-
-- **Product-minded full stack:** React and Next.js interfaces backed by Node.js or Go services.
-- **Quality built in:** unit and integration tests, clear API contracts, and thoughtful error handling.
-- **Ready to ship:** PostgreSQL, Docker, CI/CD, and deployment workflows that keep releases predictable.
-
-I’m currently open to remote full-stack engineering opportunities with teams in the **US, Canada, and Europe**.
-
-## Selected work
-
-> Replace the repository and demo destinations below as each project goes live. A strong project page should show the live app, source code, screenshots, stack, and the engineering trade-offs you made.
-
-| Project | What it demonstrates | Core stack |
-| :-- | :-- | :-- |
-| **Commerce platform** | A production-style storefront with authentication, product management, payments, and CI/CD. | Next.js · TypeScript · Prisma · PostgreSQL · Docker |
-| **Admin dashboard** | Accessible, component-driven interfaces with tested UI states and documented components. | React · TypeScript · Tailwind CSS · Vitest · Storybook |
-| **Auth API** | A secure REST API with JWT authentication, roles, migrations, and automated tests. | Go · PostgreSQL · Docker · GitHub Actions |
-
-## Toolbox
+### Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,express,postgres,mongodb,prisma,docker,githubactions,git,tailwind,figma&perline=15" alt="TypeScript, JavaScript, React, Next.js, Node.js, Go, Express, PostgreSQL, MongoDB, Prisma, Docker, GitHub Actions, Git, Tailwind CSS, and Figma" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,postgres,docker,git" />
 </div>
 
-<br />
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `PostgreSQL` · `Docker`
 
-| Area | Technologies |
-| :-- | :-- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, HTML, CSS |
-| **Backend** | Node.js, Express, Go, PostgreSQL, MongoDB, Prisma |
-| **Delivery** | Docker, GitHub Actions, Vercel, Nginx |
-| **Quality & security** | Vitest, Jest, Supertest, JWT, REST API design |
+### Currently
 
-## How I work
+<!-- TODO: swap in your real repo name/link once it's public -->
+- 🧱 Building **[fullstack-professional-notes](https://github.com/md-abu-kayser/fullstack-professional-notes)** — a structured, deeply-documented engineering reference spanning frontend, backend, databases, DevOps, testing, security, and system design
+- 🛠️ Shipping small, production-style projects with CI/CD, Docker, and test coverage as public proof of work
+- 📌 The pinned repos on this profile are the fastest way to see what I've actually shipped
 
-```text
-Understand the user problem → design the smallest robust solution →
-build with readable, type-safe code → test critical paths → ship and iterate
-```
+### GitHub Activity
 
-I value clear communication, small reviewable changes, useful documentation, and software that remains easy to evolve after launch.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=tokyonight&hide_border=true" width="43%" alt="Top languages" />
+</div>
 
-## GitHub activity
-
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+</div>
 
 ---
 
 <div align="center">
 
-**Have a product or engineering challenge in mind?**<br />
-[Let’s talk](mailto:abu.kayser.official@gmail.com)
+Open to freelance, contract, and full-time remote work — reach out via email or LinkedIn above.
 
 </div>
