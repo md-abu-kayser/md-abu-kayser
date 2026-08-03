@@ -86,38 +86,46 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=md-abu-kayser&amp;show_icons=true&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=58A6FF&amp;icon_color=00CFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=My%20GitHub%20Statistics"
+    alt="Md Abu Kayser's GitHub Statistics"
+    width="100%"
+  />
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=dark&hide_border=false&border_color=8B949E&title_color=58A6FF&icon_color=00CFFF&text_color=C9D1D9&bg_color=161B22&rank_icon=github"
-  alt="Md Abu Kayser's GitHub statistics"
-  width="100%"
-/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=md-abu-kayser&amp;theme=dark&amp;hide_border=false&amp;border=8B949E&amp;background=161B22&amp;ring=00CFFF&amp;fire=00CFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CFFF&amp;sideLabels=C9D1D9&amp;dates=8B949E"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</p>
 
-<br /><br />
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
-  alt="GitHub contribution streak"
-  width="100%"
-/>
-
-<br /><br />
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22"
-  alt="Most used programming languages"
-  width="100%"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&amp;layout=compact&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=My%20Programming%20Languages"
+    alt="Most used programming languages"
+    width="100%"
+  />
+</p>
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
 </picture>
 
 ---
