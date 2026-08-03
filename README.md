@@ -1,107 +1,84 @@
+<!--
+  Profile README for github.com/md-abu-kayser
+  Before publishing, replace the two TODO links in "Contact" and turn the
+  project links below into the real repository / live-demo URLs.
+-->
+
 <div align="center">
 
-# Hi, I'm Md Abu Kayser 👋
+# Md Abu Kayser
 
-### Full-Stack Engineer | React · Next.js · Node.js · Go · TypeScript
+### Full-Stack Engineer · TypeScript, React, Next.js, Node.js & Go
 
-I build clean, type-safe, production-ready applications - and I'm currently open to **remote roles across the US, Canada, and the EU**.
+I build fast, reliable web products—from thoughtful interfaces to well-tested APIs and dependable deployments.
 
-<img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
+[![Open to work](https://img.shields.io/badge/Open%20to-remote%20opportunities-2ea44f?style=flat-square&logo=handshake&logoColor=white)](mailto:abu.kayser.official@gmail.com)
+[![Location](https://img.shields.io/badge/Based%20in-Bangladesh%20(UTC%2B6)-0969da?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/md-abu-kayser)
+[![Profile views](https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20views&color=0969da&style=flat-square)](https://github.com/md-abu-kayser)
+
+[Email me](mailto:abu.kayser.official@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Portfolio](https://YOUR-PORTFOLIO.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Building software people can rely on
 
-I'm rebuilding my engineering path through focused, production-minded work: open-source contributions, real deployed projects, and clean documented code — the kind of evidence that speaks louder than a resume.
+I enjoy turning product ideas into maintainable, production-ready applications. My approach combines a polished user experience with type-safe code, clear architecture, and practical delivery practices.
 
-- 🔭 Currently building full-stack apps with **type safety, reliability, and clear architecture** in mind
-- 💬 Ask me about: TypeScript, React, Next.js, Node.js, Go, PostgreSQL, Docker, or API design
-- 💼 Focused on **testable code** (unit + integration), **Dockerized deployments**, and **CI/CD**
-- 🎯 Long-term goal: **Dev** Community Monikers: **Unicorn Developer** | **10x Engineer**
+- **Product-minded full stack:** React and Next.js interfaces backed by Node.js or Go services.
+- **Quality built in:** unit and integration tests, clear API contracts, and thoughtful error handling.
+- **Ready to ship:** PostgreSQL, Docker, CI/CD, and deployment workflows that keep releases predictable.
 
+I’m currently open to remote full-stack engineering opportunities with teams in the **US, Canada, and Europe**.
 
----
+## Selected work
 
-## 🛠️ Tech Stack
+> Replace the repository and demo destinations below as each project goes live. A strong project page should show the live app, source code, screenshots, stack, and the engineering trade-offs you made.
+
+| Project | What it demonstrates | Core stack |
+| :-- | :-- | :-- |
+| **Commerce platform** | A production-style storefront with authentication, product management, payments, and CI/CD. | Next.js · TypeScript · Prisma · PostgreSQL · Docker |
+| **Admin dashboard** | Accessible, component-driven interfaces with tested UI states and documented components. | React · TypeScript · Tailwind CSS · Vitest · Storybook |
+| **Auth API** | A secure REST API with JWT authentication, roles, migrations, and automated tests. | Go · PostgreSQL · Docker · GitHub Actions |
+
+## Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go,express,postgres,mongodb,prisma,docker,githubactions,git,tailwind,figma&perline=15" alt="TypeScript, JavaScript, React, Next.js, Node.js, Go, Express, PostgreSQL, MongoDB, Prisma, Docker, GitHub Actions, Git, Tailwind CSS, and Figma" />
 </div>
 
-| Category | Technologies |
-|---|---|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
+<br />
+
+| Area | Technologies |
+| :-- | :-- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, HTML, CSS |
 | **Backend** | Node.js, Express, Go, PostgreSQL, MongoDB, Prisma |
-| **DevOps** | Docker, GitHub Actions, Vercel, Nginx |
-| **Testing & Auth** | Jest, Vitest, Supertest, JWT |
+| **Delivery** | Docker, GitHub Actions, Vercel, Nginx |
+| **Quality & security** | Vitest, Jest, Supertest, JWT, REST API design |
 
----
+## How I work
 
-## 📌 Featured Projects
-
-> Update each repo link and demo URL below once the project is live.
-
-### 🛒 Full-Stack E-Commerce Platform
-**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Docker
-A production-style store with authentication, sandbox payments, product admin, and full CI/CD.
-```bash
-git clone https://github.com/md-abu-kayser/<coming-soon>.git
-cd <coming-soon>
-cp .env.example .env
-docker-compose up --build
+```text
+Understand the user problem → design the smallest robust solution →
+build with readable, type-safe code → test critical paths → ship and iterate
 ```
 
-### 📊 Admin Dashboard
-**Stack:** React · TypeScript · Tailwind CSS · Vitest · Storybook
-A component-driven UI with documented components, accessibility support, and unit tests.
+I value clear communication, small reviewable changes, useful documentation, and software that remains easy to evolve after launch.
 
-### 🔐 Auth API
-**Stack:** Go · PostgreSQL · Docker · GitHub Actions
-A performant REST API featuring JWT auth, role-based access control, and automated tests.
-
----
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=tokyonight&hide_border=true" width="49%" alt="" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="" />
-</div>
-
-### 🐍 Contribution Snake
+## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abu.kayser.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
-
-</div>
-
-Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
-
----
-
-<div align="center">
-
-📄 Licensed under [MIT](./LICENSE) unless otherwise noted per repo.
-
-*Fun fact: I enjoy untangling gnarly coding challenges in my spare time.*
+**Have a product or engineering challenge in mind?**<br />
+[Let’s talk](mailto:abu.kayser.official@gmail.com)
 
 </div>
