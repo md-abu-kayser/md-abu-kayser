@@ -1,55 +1,113 @@
 <div align="center">
 
-# Md Abu Kayser
+# Hi, I'm Md Abu Kayser 👋
 
-**Full-Stack Engineer — React · Next.js · Node.js · Go · TypeScript**
+### Full-Stack Engineer | React · Next.js · Node.js · Go · TypeScript
 
-I build type-safe, production-ready web applications end to end — from API design to deployment.
-Currently open to **remote roles in the US, Canada, and the EU**.
+I build clean, type-safe, production-ready applications - and I'm currently open to **remote roles across the US, Canada, and the EU**.
 
-<!-- TODO: replace YOUR-LINKEDIN and YOUR-PORTFOLIO below with your real links before publishing -->
-[![Email](https://img.shields.io/badge/Email-abu.kayser.official%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abu.kayser.official@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
+<img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
 
 </div>
 
 ---
 
-### Stack
+## 🚀 About Me
+
+I'm rebuilding my engineering path through focused, production-minded work: open-source contributions, real deployed projects, and clean documented code — the kind of evidence that speaks louder than a resume.
+
+- 🔭 Currently building full-stack apps with **type safety, reliability, and clear architecture** in mind
+- 💬 Ask me about: TypeScript, React, Next.js, Node.js, Go, PostgreSQL, Docker, or API design
+- 💼 Focused on **testable code** (unit + integration), **Dockerized deployments**, and **CI/CD**
+- 🎯 Long-term goal: **Dev** Community Monikers: **Unicorn Developer** | **10x Engineer**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,postgres,docker,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,express,postgres,mongodb,docker,git,github,tailwind,html,css,figma" />
 </div>
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `Go` · `PostgreSQL` · `Docker`
+| Category           | Technologies                                          |
+| ------------------ | ----------------------------------------------------- |
+| **Frontend**       | React, Next.js, TypeScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend**        | Node.js, Express, Go, PostgreSQL, MongoDB, Prisma     |
+| **DevOps**         | Docker, GitHub Actions, Vercel, Nginx                 |
+| **Testing & Auth** | Jest, Vitest, Supertest, JWT                          |
 
-### Currently
+---
 
-<!-- TODO: swap in your real repo name/link once it's public -->
-- 🧱 Building **[fullstack-professional-notes](https://github.com/md-abu-kayser/fullstack-professional-notes)** — a structured, deeply-documented engineering reference spanning frontend, backend, databases, DevOps, testing, security, and system design
-- 🛠️ Shipping small, production-style projects with CI/CD, Docker, and test coverage as public proof of work
-- 📌 The pinned repos on this profile are the fastest way to see what I've actually shipped
+## 📌 Featured Projects
 
-### GitHub Activity
+> Update each repo link and demo URL below once the project is live.
+
+### 🛒 Full-Stack E-Commerce Platform
+
+**Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Docker
+A production-style store with authentication, sandbox payments, product admin, and full CI/CD.
+
+```bash
+git clone https://github.com/md-abu-kayser/<coming-soon>.git
+cd <coming-soon>
+cp .env.example .env
+docker-compose up --build
+```
+
+### 📊 Admin Dashboard
+
+**Stack:** React · TypeScript · Tailwind CSS · Vitest · Storybook
+A component-driven UI with documented components, accessibility support, and unit tests.
+
+### 🔐 Auth API
+
+**Stack:** Go · PostgreSQL · Docker · GitHub Actions
+A performant REST API featuring JWT auth, role-based access control, and automated tests.
+
+### "I have temporary hide my github README documentation profile"
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=tokyonight&hide_border=true" width="43%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=tokyonight&hide_border=true" width="49%" alt="" />
 </div>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=tokyonight&hide_border=true" width="60%" alt="" />
+</div>
+
+### 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abu.kayser.official@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO.com)
+
 </div>
+
+Want to collaborate? Open an issue on any repo or reach out directly - I review PRs based on impact and test coverage. Fork, branch as `feat/your-feature`, add tests, and open a PR with a clear description.
 
 ---
 
 <div align="center">
 
-Open to freelance, contract, and full-time remote work — reach out via email or LinkedIn above.
+📄 Licensed under [MIT](./LICENSE) unless otherwise noted per repo.
+
+_Fun fact: I enjoy untangling gnarly coding challenges in my spare time._
 
 </div>
