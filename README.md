@@ -93,7 +93,7 @@ A performant REST API featuring JWT auth, role-based access control, and automat
     width="49%"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&amp;layout=compact&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=My%20Programming%20Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&amp;layout=compact&amp;card_width=420&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=My%20Programming%20Languages"
     alt="My Programming Languages"
     width="49%"
   />
