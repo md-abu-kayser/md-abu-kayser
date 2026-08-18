@@ -97,47 +97,25 @@ alt="Technology Footprint"
 width="49%"
 />
 
-</p><!-- ========================================================= --><!--                    CONTRIBUTION ACTIVITY                  --><!-- ========================================================= -->🐍 Contribution Activity
+</p>
+
+<!-- ========================================================= --><!--                  CONTRIBUTION ANALYTICS                   --><!-- ========================================================= -->📈 Contribution Analytics
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=md-abu-kayser&bg_color=161B22&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true&hide_border=true"
+    alt="Md Abu Kayser's Contribution Analytics"
+    width="98%"
+  />
+</p><!-- ========================================================= --><!--                  CONTRIBUTION ACTIVITY                   --><!-- ========================================================= -->🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&disable_animations=true"
     alt="GitHub Contribution Activity"
     width="98%"
   />
 </p>
-
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION ACTIVITY                    -->
-<!-- ========================================================= -->
-
-### 🐍 Contribution Activity
-
-<div align="center">
-
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
-  />
-
-<img
-    src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Activity - Last 365 Days"
-    width="100%"
-  />
-
-</picture>
-
-</div>
-
----
 
 <!--
 
