@@ -97,7 +97,7 @@ A performant REST API featuring JWT auth, role-based access control, and automat
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
-    width="47%"
+    width="49%"
   />
 </p>
 
