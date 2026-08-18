@@ -81,15 +81,21 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 <div align="center">
 
-  <img
-    src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <a href="https://github.com/md-abu-kayser">
+    <img
+      src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
+  </a>
 
-  <img
-    src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social"
-    alt="GitHub Followers"
-  />
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/md-abu-kayser?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social"
+      alt="GitHub Followers"
+    />
+  </a>
 
 </div>
 
@@ -97,25 +103,54 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ## 📊 GitHub Engineering Stats
 
-<p align="center">
+<!-- ========================================================= -->
+<!--             STATS + TECHNOLOGY FOOTPRINT                  -->
+<!-- ========================================================= -->
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+
+<a href="https://github.com/md-abu-kayser">
   <img
     src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=30363D&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D"
     alt="GitHub Contribution Streak"
-    width="49%"
+    width="100%"
   />
+</a>
 
+</td>
+
+<td align="center" valign="top" width="50%">
+
+<a href="https://github.com/md-abu-kayser">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&langs_count=8&card_width=420&theme=dark&hide_border=false&border_color=30363D&title_color=FFFFFF&text_color=C9D1D9&bg_color=0D1117&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
-    width="49%"
+    width="100%"
   />
+</a>
 
-</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION ACTIVITY                    -->
+<!-- ========================================================= -->
 
 ### 🐍 Contribution Activity
 
+<div align="center">
+
 <picture>
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
@@ -128,12 +163,27 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
   <img
     src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Activity"
+    alt="GitHub Contribution Activity - Last 365 Days"
     width="100%"
   />
+
 </picture>
 
+</div>
+
+<br />
+
 ---
+
+<div align="center">
+
+<sub>
+  ⚡ Automatically updated from GitHub activity
+  &nbsp;•&nbsp;
+  🚀 Consistent development & continuous learning
+</sub>
+
+</div>
 <!--
 
 ## 🤝 Let's Connect
