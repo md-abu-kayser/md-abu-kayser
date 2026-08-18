@@ -102,35 +102,38 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 ## 📊 GitHub Engineering Stats
 
 <!-- ========================================================= -->
-<!--                GITHUB ENGINEERING STATS                   -->
+<!--             STATS + TECHNOLOGY FOOTPRINT                  -->
 <!-- ========================================================= -->
 
-<div align="center">
+<table align="center" width="100%">
+  <tr>
 
-  <!-- ======================================================= -->
-  <!--                CONTRIBUTION STREAK                      -->
-  <!-- ======================================================= -->
+    <!-- ================= CONTRIBUTION STREAK ================= -->
 
-<img
-    src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Contribution Streak"
-    width="100%"
-  />
+    <td width="50%" align="center" valign="top">
 
-  <br />
-  <br />
+      <img
+        src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
+        alt="GitHub Contribution Streak"
+        width="100%"
+      />
 
-  <!-- ======================================================= -->
-  <!--                TECHNOLOGY FOOTPRINT                     -->
-  <!-- ======================================================= -->
+    </td>
 
-<img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&langs_count=8&card_width=600&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-    alt="Technology Footprint"
-    width="100%"
-  />
+    <!-- ================= TECHNOLOGY FOOTPRINT ================= -->
 
-</div>
+    <td width="50%" align="center" valign="top">
+
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&langs_count=8&card_width=500&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+        alt="Technology Footprint"
+        width="100%"
+      />
+
+    </td>
+
+  </tr>
+</table>
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ACTIVITY                    -->
