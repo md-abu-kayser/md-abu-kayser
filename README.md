@@ -90,7 +90,7 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak"
     width="49%"
   />
