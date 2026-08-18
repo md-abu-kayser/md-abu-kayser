@@ -75,50 +75,65 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ### "I have temporary hide my github README documentation profile"
 
+<!-- ========================================================= -->
+<!--                    PROFILE METRICS                       -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
+  <img
+    src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+
+  <img
+    src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social"
+    alt="GitHub Followers"
+  />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Engineering Stats
 
 <p align="center">
+
   <img
-    src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=30363D&background=0D1117&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D"
+    alt="GitHub Contribution Streak"
     width="49%"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=My%20Programming%20Languages&count_private=true&cache_seconds=1800"
-    alt="My Programming Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&langs_count=8&card_width=420&theme=dark&hide_border=false&border_color=30363D&title_color=FFFFFF&text_color=C9D1D9&bg_color=0D1117&custom_title=Technology%20Footprint"
+    alt="Technology Footprint"
     width="49%"
   />
+
 </p>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
   />
+
   <img
-    alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/md-abu-kayser/md-abu-kayser/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Activity"
     width="100%"
   />
 </picture>
 
 ---
-
 <!--
 
 ## 🤝 Let's Connect
