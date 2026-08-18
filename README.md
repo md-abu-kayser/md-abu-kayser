@@ -90,12 +90,12 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=md-abu-kayser&amp;theme=dark&amp;hide_border=false&amp;border=8B949E&amp;background=161B22&amp;ring=00CFFF&amp;fire=00CFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CFFF&amp;sideLabels=C9D1D9&amp;dates=8B949E"
+    src="https://streak-stats.demolab.com/?user=md-abu-kayser&amp;starting_year=2020&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border=8B949E&amp;background=161B22&amp;ring=00CFFF&amp;fire=00CFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CFFF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;short_numbers=false"
     alt="GitHub Streak"
     width="49%"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&amp;layout=compact&amp;card_width=420&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=Technology%20Footprint"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&amp;layout=compact&amp;langs_count=8&amp;card_width=420&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=Technology%20Footprint"
     alt="Technology Footprint"
     width="49%"
   />
