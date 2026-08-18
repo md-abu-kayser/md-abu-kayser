@@ -82,22 +82,28 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ---
 
-## 📊 GitHub Engineering Stats
+📊 GitHub Engineering Stats
 
-<!-- ========================================================= -->
-<!--             STATS + TECHNOLOGY FOOTPRINT                  -->
-<!-- ========================================================= -->
+<!-- ========================================================= --><!--             STATS + TECHNOLOGY FOOTPRINT                  --><!-- ========================================================= --><p align="center">
+  <a href="https://streak-stats.demolab.com/">
+    <img
+      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true"
+      alt="GitHub Streak"
+      width="49%"
+    />
+  </a><img
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
+alt="Technology Footprint"
+width="49%"
+/>
+
+</p><!-- ========================================================= --><!--                    CONTRIBUTION ACTIVITY                  --><!-- ========================================================= -->🐍 Contribution Activity
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub Streak"
-    width="49%"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-    alt="Technology Footprint"
-    width="49%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=md-abu-kayser&bg_color=161B22&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Contribution Activity"
+    width="98%"
   />
 </p>
 
