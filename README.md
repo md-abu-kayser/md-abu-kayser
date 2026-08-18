@@ -92,12 +92,12 @@ A performant REST API featuring JWT auth, role-based access control, and automat
   <img
     src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Streak"
-    height="195"
+    width="49%"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint&hide=c,c%2B%2B"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint&hide=c,c%2B%2B&langs_count=6"
     alt="Technology Footprint"
-    height="195"
+    width="49%"
   />
 </p>
 
