@@ -79,8 +79,21 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social" alt="followers" />
+  <a href="https://github.com/md-abu-kayser">
+    <img
+      src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
+  </a>
+
+&nbsp;
+
+  <a href="https://github.com/md-abu-kayser?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/md-abu-kayser?label=Followers&style=social"
+      alt="GitHub Followers"
+    />
+  </a>
 
 </div>
 
@@ -89,21 +102,35 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 ## 📊 GitHub Engineering Stats
 
 <!-- ========================================================= -->
-<!--             STATS + TECHNOLOGY FOOTPRINT                  -->
+<!--                GITHUB ENGINEERING STATS                   -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=md-abu-kayser&amp;theme=dark&amp;hide_border=false&amp;border=8B949E&amp;background=161B22&amp;ring=00CFFF&amp;fire=00CFFF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00CFFF&amp;sideLabels=C9D1D9&amp;dates=8B949E"
+<div align="center">
+
+  <!-- ======================================================= -->
+  <!--                CONTRIBUTION STREAK                      -->
+  <!-- ======================================================= -->
+
+<img
+    src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E"
     alt="GitHub Contribution Streak"
-    width="49%"
+    width="100%"
   />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&amp;layout=compact&amp;langs_count=8&amp;card_width=420&amp;theme=dark&amp;hide_border=false&amp;border_color=8B949E&amp;title_color=FFFFFF&amp;text_color=C9D1D9&amp;bg_color=161B22&amp;custom_title=Technology%20Footprint"
+
+  <br />
+  <br />
+
+  <!-- ======================================================= -->
+  <!--                TECHNOLOGY FOOTPRINT                     -->
+  <!-- ======================================================= -->
+
+<img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&langs_count=8&card_width=600&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
-    width="49%"
+    width="100%"
   />
-</p>
+
+</div>
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ACTIVITY                    -->
