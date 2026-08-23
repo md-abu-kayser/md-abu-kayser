@@ -96,20 +96,31 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 <!--             STATS + TECHNOLOGY FOOTPRINT                  -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com/">
-    <img
-      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true"
-      alt="GitHub Streak"
-      width="49%"
-    />
-  </a><img
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-alt="Technology Footprint"
-width="49%"
-/>
+<div align="center">
 
-</p>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://streak-stats.demolab.com/">
+          <img
+            src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=true&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true"
+            alt="GitHub Streak"
+            width="100%"
+          />
+        </a>
+      </td>
+
+      <td width="50%" align="center">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&card_width=420&theme=dark&hide_border=true&bg_color=161B22&title_color=00CFFF&text_color=C9D1D9&custom_title=Technology%20Footprint"
+          alt="Technology Footprint"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ANALYTICS                   -->
