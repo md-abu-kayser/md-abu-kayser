@@ -73,15 +73,19 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 <div align="center">
 
-  <img
-    src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <a href="https://github.com/md-abu-kayser">
+    <img
+      src="https://komarev.com/ghpvc/?username=md-abu-kayser&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
 
-  <img
-    src="https://img.shields.io/github/followers/md-abu-kayser?label=FOLLOWERS&style=for-the-badge"
-    alt="GitHub Followers"
-  />
+  <a href="https://github.com/md-abu-kayser?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/md-abu-kayser?label=FOLLOWERS&style=for-the-badge&logo=github"
+      alt="GitHub Followers"
+    />
+  </a>
 
 </div>
 
