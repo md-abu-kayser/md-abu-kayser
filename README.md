@@ -96,25 +96,30 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 <!--             STATS + TECHNOLOGY FOOTPRINT                  -->
 <!-- ========================================================= -->
 
-<div align="center">
+<h3 align="center">📊 GitHub Engineering Stats</h3>
 
-  <a href="https://github.com/md-abu-kayser">
+<p align="center">
+  <strong>🔥 Coding Streak</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>🧩 Technology Footprint</strong>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=true&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true"
-      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=true&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&locale=en&disable_animations=true"
+      alt="Coding Streak"
       width="48%"
     />
   </a>
-
   <a href="https://github.com/md-abu-kayser">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&hide_border=true&bg_color=161B22&title_color=00CFFF&text_color=C9D1D9&langs_count=8"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=donut&langs_count=7&card_width=420&hide_border=true&bg_color=161B22&title_color=00CFFF&text_color=C9D1D9&border_radius=12&disable_animations=true"
       alt="Technology Footprint"
       width="48%"
     />
   </a>
-
-</div>
+</p>
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ANALYTICS                   -->
