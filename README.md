@@ -1,4 +1,4 @@
-<!--
+
 
 <div align="center">
 
@@ -68,8 +68,6 @@ A component-driven UI with documented components, accessibility support, and uni
 A performant REST API featuring JWT auth, role-based access control, and automated tests.
 
 ---
-
--->
 
 <div align="center">
 
@@ -155,8 +153,6 @@ width="49%"
 
 ---
 
-<!--
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -178,5 +174,3 @@ Want to collaborate? Open an issue on any repo or reach out directly - I review 
 _Fun fact: I enjoy untangling gnarly coding challenges in my spare time._
 
 </div>
-
--->
