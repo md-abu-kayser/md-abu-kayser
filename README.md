@@ -1,5 +1,5 @@
 
-
+<!---
 <div align="center">
 
 # Hi, I'm Md Abu Kayser 👋
@@ -69,6 +69,8 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ---
 
+--->
+
 <div align="center">
 
   <a href="https://github.com/md-abu-kayser">
@@ -111,12 +113,12 @@ width="49%"
 <!--                  CONTRIBUTION ANALYTICS                   -->
 <!-- ========================================================= -->
 
-📈 Contribution Analytics
+## 📈 Contribution Analytics
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=md-abu-kayser&bg_color=161B22&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true&hide_border=true"
-    alt="Md Abu Kayser's Contribution Analytics"
+    alt="Md Abu Kayser's GitHub Contribution Analytics"
     width="98%"
   />
 </p>
@@ -153,6 +155,8 @@ width="49%"
 
 ---
 
+<!---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -174,3 +178,5 @@ Want to collaborate? Open an issue on any repo or reach out directly - I review 
 _Fun fact: I enjoy untangling gnarly coding challenges in my spare time._
 
 </div>
+
+--->
