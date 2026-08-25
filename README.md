@@ -1,4 +1,3 @@
-
 <!---
 <div align="center">
 
@@ -89,7 +88,6 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 </div>
 
-
 ## 📊 GitHub Engineering Stats
 
 <!-- ========================================================= -->
@@ -116,17 +114,6 @@ width="49%"
 ## 📈 Contribution Analytics
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-abu-kayser&bg_color=161B22&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Md Abu Kayser's Contribution Analytics" width="98%" /> </p>
-
-## 📈 Contribution Analytics
-
-<p align="center">
-  <img
-    src="./github-metrics.svg"
-    alt="Md Abu Kayser's GitHub Contribution Analytics"
-    width="98%"
-  />
-</p>
-
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ACTIVITY                   -->
@@ -157,8 +144,6 @@ width="49%"
 </picture>
 
 </div>
-
----
 
 <!---
 
