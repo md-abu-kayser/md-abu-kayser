@@ -111,6 +111,8 @@ width="49%"
 <!--                  CONTRIBUTION ANALYTICS                   -->
 <!-- ========================================================= -->
 
+<!---
+
 
 ## 📈 Contribution Analytics
 
@@ -119,6 +121,9 @@ width="49%"
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-abu-kayser&bg_color=161B22&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Md Abu Kayser's Contribution Analytics" width="98%" />
 
  </p>
+
+--->
+
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ACTIVITY                   -->
