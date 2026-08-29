@@ -94,6 +94,8 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 <!--             STATS + TECHNOLOGY FOOTPRINT                  -->
 <!-- ========================================================= -->
 
+<!--
+
 <p align="center">
   <a href="https://streak-stats.demolab.com/">
     <img
@@ -106,6 +108,8 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kay
 alt="Technology Footprint"
 width="49%"
 />
+
+-->
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ANALYTICS                   -->
