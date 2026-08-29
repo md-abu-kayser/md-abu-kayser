@@ -90,6 +90,29 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 ## 📊 GitHub Engineering Stats
 
+<div translate="no">
+
+<h3 translate="no">GitHub Analytics</h3>
+
+<div align="left" translate="no">
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=md-abu-kayser&show_icons=true&theme=github_dark&bg_color=161B22&border_color=00CFFF&hide_border=false&title_color=00CFFF&icon_color=00CFFF&text_color=C9D1D9&rank_icon=github"
+  alt="GitHub Analytics"
+/>
+
+&nbsp;
+
+<img
+  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&theme=github_dark&bg_color=161B22&border_color=00CFFF&hide_border=false&title_color=00CFFF&text_color=C9D1D9&langs_count=6"
+  alt="Top Languages"
+/>
+
+</div>
+</div>
+
 <!-- ========================================================= -->
 <!--             STATS + TECHNOLOGY FOOTPRINT                  -->
 <!-- ========================================================= -->
