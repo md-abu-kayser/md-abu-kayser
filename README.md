@@ -155,6 +155,17 @@ width="49%"
 
 </div>
 
+
+## 📊 GitHub Engineering Stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-psi-smoky-68.vercel.app/api?username=md-abu-kayser&layout=compact&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&cache_seconds=1800"
+    alt="GitHub Engineering Stats"
+  />
+</p>
+
 <!---
 
 ## 🤝 Let's Connect
