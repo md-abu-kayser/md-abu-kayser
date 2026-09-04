@@ -155,6 +155,7 @@ width="49%"
 
 </div>
 
+<!---
 
 ## 📊 GitHub Engineering Stats
 
@@ -165,6 +166,8 @@ width="49%"
     alt="GitHub Engineering Stats"
   />
 </p>
+
+--->
 
 <!---
 
