@@ -113,11 +113,15 @@ width="49%"
 
 ## 📈 Contribution Analytics
 
- <p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-abu-kayser&bg_color=161B22&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true&hide_border=true" alt="Md Abu Kayser's Contribution Analytics" width="98%" />
-
- </p>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://fabianocouto-activity-graph.vercel.app/graph/?username=md-abu-kayser&theme=react-dark&hide_border=true&bg_color=0D1117&color=C9D1D9&line=00CFFF&point=FFFFFF&area=true"
+      alt="Md Abu Kayser's GitHub Contribution Analytics"
+      width="98%"
+    />
+  </a>
+</p>
 
 <!-- ========================================================= -->
 <!--                  CONTRIBUTION ACTIVITY                   -->
