@@ -89,7 +89,7 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 </div>
 
 <!-- ========================================================= -->
-<!--             STATS + TECHNOLOGY FOOTPRINT                  -->
+<!--              GITHUB ENGINEERING STATS                     -->
 <!-- ========================================================= -->
 
 ## 📊 GitHub Engineering Stats
@@ -97,8 +97,8 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 <p align="center">
   <a href="https://streak-stats.demolab.com/">
     <img
-      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&starting_year=2025"
-      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com/?user=md-abu-kayser&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&starting_year=2025&card_width=495"
+      alt="GitHub Engineering Streak"
       width="49%"
     />
   </a><img
