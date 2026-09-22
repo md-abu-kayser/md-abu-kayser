@@ -154,6 +154,7 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
 </div>
 
+<!---
 
 ## 📊 GitHub Engineering Stats
 
@@ -165,6 +166,7 @@ A performant REST API featuring JWT auth, role-based access control, and automat
   />
 </p>
 
+--->
 
 <!---
 
