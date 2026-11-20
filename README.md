@@ -81,10 +81,9 @@ A performant REST API featuring JWT auth, role-based access control, and automat
 
   <a href="https://github.com/md-abu-kayser?tab=followers">
     <img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=md-abu-kayser&layout=compact&langs_count=8&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint&cache_seconds=3600"
-  alt="Technology Footprint"
-  width="49%"
-/>
+      src="https://img.shields.io/github/followers/md-abu-kayser?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=181717"
+      alt="Followers"
+    />
   </a>
 
 </div>
